@@ -1,0 +1,6 @@
+# Welcome to NeonAsteroidShooter-Game! 
+It is an AI generated HTML game that uses CSS and JS. 
+Will be published to GitHub pages later, but you are welcome to change CSS and/or HTML
+# How can I change CSS and HTML? 
+Must fork this Repository, then find Code tab. You will find html and css file. Try to edit css (also HTMLif later, but dont change JavaSctipt! ). click Commit changes... then click save. 
+# 
